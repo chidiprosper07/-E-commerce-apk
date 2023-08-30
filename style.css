@@ -48,6 +48,7 @@ table {
 /* Write your css below here */
 * {
 	box-sizing: border-box;
+    /* background-image: url(/IMG-20230809-WA0004.jpg); */
 }
 
 html {
